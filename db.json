@@ -98,6 +98,186 @@
       "price": 5.41,
       "tag": "appetizer",
       "image": "https://via.placeholder.com/250/81C0D4"
+    },
+    {
+      "id": 11,
+      "guid": "5cbe1e3c653f4639ae479190",
+      "name": "anim do proident reprehenderit",
+      "isAvailable": true,
+      "price": 6.43,
+      "tag": "appetizer",
+      "image": "https://via.placeholder.com/250/3C6695"
+    },
+    {
+      "id": 12,
+      "guid": "5cbe1e3c0c3c91c14c59527f",
+      "name": "reprehenderit consectetur",
+      "isAvailable": false,
+      "price": 14.73,
+      "tag": "appetizer",
+      "image": "https://via.placeholder.com/250/92FE8A"
+    },
+    {
+      "id": 13,
+      "guid": "5cbe1e3c990bfe02d9c0f077",
+      "name": "irure amet ea proident",
+      "isAvailable": true,
+      "price": 8.95,
+      "tag": "dessert",
+      "image": "https://via.placeholder.com/250/61B04B"
+    },
+    {
+      "id": 14,
+      "guid": "5cbe1e3c110487b108258366",
+      "name": "magna magna nisi",
+      "isAvailable": true,
+      "price": 7.16,
+      "tag": "drink",
+      "image": "https://via.placeholder.com/250/A7E3BA"
+    },
+    {
+      "id": 15,
+      "guid": "5cbe1e3cf73738a8d7b6a5c6",
+      "name": "proident sint irure sunt",
+      "isAvailable": false,
+      "price": 14.92,
+      "tag": "appetizer",
+      "image": "https://via.placeholder.com/250/ED86F7"
+    },
+    {
+      "id": 16,
+      "guid": "5cbe1e3cf8f9134f04718750",
+      "name": "reprehenderit occaecat",
+      "isAvailable": true,
+      "price": 6.52,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/FDDC3A"
+    },
+    {
+      "id": 17,
+      "guid": "5cbe1e3cd1db9a49e57c97c9",
+      "name": "laborum enim dolor",
+      "isAvailable": true,
+      "price": 1.68,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/5F9013"
+    },
+    {
+      "id": 18,
+      "guid": "5cbe1e3c86bf6a062354b040",
+      "name": "reprehenderit ex",
+      "isAvailable": false,
+      "price": 19,
+      "tag": "dessert",
+      "image": "https://via.placeholder.com/250/BB7B95"
+    },
+    {
+      "id": 19,
+      "guid": "5cbe1e3c6ef37f26e1f58664",
+      "name": "irure culpa culpa",
+      "isAvailable": false,
+      "price": 16.58,
+      "tag": "appetizer",
+      "image": "https://via.placeholder.com/250/EBDD14"
+    },
+    {
+      "id": 20,
+      "guid": "5cbe1e3cdd3cfa55eea14ff5",
+      "name": "veniam reprehenderit deserunt",
+      "isAvailable": true,
+      "price": 9.75,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/8D95DE"
+    },
+    {
+      "id": 21,
+      "guid": "5cbe1e3c4d2f4bf44fb0e739",
+      "name": "et proident enim",
+      "isAvailable": true,
+      "price": 3.6,
+      "tag": "dessert",
+      "image": "https://via.placeholder.com/250/542A80"
+    },
+    {
+      "id": 22,
+      "guid": "5cbe1e3c63c5c1eaefeb4eca",
+      "name": "consectetur in ea",
+      "isAvailable": false,
+      "price": 13.84,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/E339F1"
+    },
+    {
+      "id": 23,
+      "guid": "5cbe1e3c6a611c3b1b9a83a5",
+      "name": "ut et anim consectetur",
+      "isAvailable": true,
+      "price": 8.79,
+      "tag": "drink",
+      "image": "https://via.placeholder.com/250/AB6266"
+    },
+    {
+      "id": 24,
+      "guid": "5cbe1e3c837ab2070d4b4dda",
+      "name": "minim commodo eu do",
+      "isAvailable": false,
+      "price": 14.95,
+      "tag": "dessert",
+      "image": "https://via.placeholder.com/250/C1154F"
+    },
+    {
+      "id": 25,
+      "guid": "5cbe1e3c55e237e6bc0327dc",
+      "name": "anim duis tempor culpa",
+      "isAvailable": false,
+      "price": 13.65,
+      "tag": "appetizer",
+      "image": "https://via.placeholder.com/250/6A5D87"
+    },
+    {
+      "id": 26,
+      "guid": "5cbe1e3c2dff6c1de1e52483",
+      "name": "exercitation nulla aliquip",
+      "isAvailable": false,
+      "price": 16.65,
+      "tag": "dessert",
+      "image": "https://via.placeholder.com/250/073576"
+    },
+    {
+      "id": 27,
+      "guid": "5cbe1e3c5a14b771c60ea1cd",
+      "name": "esse excepteur eu eu",
+      "isAvailable": true,
+      "price": 12.93,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/808B56"
+    },
+    {
+      "id": 28,
+      "guid": "5cbe1e3cf378e59a405f06e2",
+      "name": "commodo officia",
+      "isAvailable": true,
+      "price": 18.9,
+      "tag": "drink",
+      "image": "https://via.placeholder.com/250/5E8E36"
+    },
+    {
+      "id": 29,
+      "guid": "5cbe1e3c61055c0d9c7055b6",
+      "name": "et nisi",
+      "isAvailable": false,
+      "price": 12.24,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/229865"
+    },
+    {
+      "id": 30,
+      "guid": "5cbe1e3c97c856ed4b6e2de8",
+      "name": "eiusmod aliquip commodo aliqua",
+      "isAvailable": true,
+      "price": 6.98,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/E2D749"
     }
   ]
 }
