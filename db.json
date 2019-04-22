@@ -53,6 +53,51 @@
       "price": 19.39,
       "tag": "dessert",
       "image": "https://via.placeholder.com/250/DE899F"
+    },
+    {
+      "id": 6,
+      "guid": "5cbe1e3c233087bae2046089",
+      "name": "aliqua qui",
+      "isAvailable": false,
+      "price": 9.77,
+      "tag": "dessert",
+      "image": "https://via.placeholder.com/250/95131F"
+    },
+    {
+      "id": 7,
+      "guid": "5cbe1e3cedce787cd957ddef",
+      "name": "aute amet amet",
+      "isAvailable": true,
+      "price": 9.79,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/DC7EB1"
+    },
+    {
+      "id": 8,
+      "guid": "5cbe1e3cb32a2bb6b7b5a3b9",
+      "name": "aute culpa elit culpa",
+      "isAvailable": true,
+      "price": 11.24,
+      "tag": "main_dish",
+      "image": "https://via.placeholder.com/250/85547F"
+    },
+    {
+      "id": 9,
+      "guid": "5cbe1e3c821bddaa5f753b64",
+      "name": "tempor veniam ea eu",
+      "isAvailable": true,
+      "price": 11.62,
+      "tag": "appetizer",
+      "image": "https://via.placeholder.com/250/10C019"
+    },
+    {
+      "id": 10,
+      "guid": "5cbe1e3c6da5dd43034540ca",
+      "name": "magna proident exercitation ea",
+      "isAvailable": true,
+      "price": 5.41,
+      "tag": "appetizer",
+      "image": "https://via.placeholder.com/250/81C0D4"
     }
   ]
 }
