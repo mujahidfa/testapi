@@ -269,15 +269,6 @@
       "price": 12.24,
       "tag": "main_dish",
       "image": "https://via.placeholder.com/250/229865"
-    },
-    {
-      "id": 30,
-      "guid": "5cbe1e3c97c856ed4b6e2de8",
-      "name": "eiusmod aliquip commodo aliqua",
-      "isAvailable": true,
-      "price": 6.98,
-      "tag": "main_dish",
-      "image": "https://via.placeholder.com/250/E2D749"
     }
   ]
 }
