@@ -278,15 +278,6 @@
       "price": 6.98,
       "tag": "main_dish",
       "image": "https://via.placeholder.com/250/E2D749"
-    },
-    {
-      "id": 31,
-      "guid": "5cbe1e3c6248547d60dcb326",
-      "name": "consectetur consequat tempor non",
-      "isAvailable": true,
-      "price": 2.5,
-      "tag": "main_dish",
-      "image": "https://via.placeholder.com/250/10B80F"
     }
   ]
 }
